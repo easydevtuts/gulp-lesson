@@ -1,0 +1,11 @@
+{
+  "name": "easydevtuts",
+  "description": "This is for use within the gulp-lesson repository. ",
+  "version": "0.0.1",
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ]
+}
